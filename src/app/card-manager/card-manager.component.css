@@ -1,0 +1,19 @@
+.card
+{
+    border-radius: 75px 75px;
+    background-color: rgb(251, 45, 86);
+    box-shadow: 10px 10px;
+}
+.list-group list-group-flush
+{
+    background-color: rgb(249, 241, 242);
+}
+
+img
+{
+    border-radius: 75px 75px;
+    display: block;
+   margin-left: 160px;
+   margin-right: auto;
+    
+}
